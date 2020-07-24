@@ -20,7 +20,9 @@
 	<string>Some description</string>
 	<key>NSMotionUsageDescription</key>
 	<string>Some description</string>
-	<key>NSLocationAlwaysUsageDescription</key>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Beacon monitor</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Beacon monitor</string>
 	<key>UIBackgroundModes</key>
 	<array><string>fetch</string></array>

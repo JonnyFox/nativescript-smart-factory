@@ -209,9 +209,12 @@ export default {
   @include colorize($color: accent);
 }
 
+#myWebView {
+  height: 400px;
+}
+
 .info {
   font-size: 20;
-  horizontal-align: center;
   vertical-align: center;
 }
 </style>
